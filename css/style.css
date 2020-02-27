@@ -1,0 +1,42 @@
+body {
+    background-image: url(../img/back.jpeg);
+    font-family: 'Raleway', sans-serif ;
+}
+#title {
+    height: auto;
+    width: 50%;
+    background-color: rgb(27, 25, 25);
+    margin: 140px auto;
+    border-radius: 10px;
+    border: 2px solid rgb(225, 65, 198);
+}
+
+h1 {
+    color: ivory;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.butt {
+    background-color: rgb(27, 25, 25);
+    border: 2px solid rgb(225, 65, 198);
+}
+
+#generate {
+    width: 25%;
+    margin: 120px auto;
+    text-align: center;
+}
+
+#lecture {
+    width: 60%;
+    height: auto;
+    background-color: rgb(27, 25, 25);
+    color:#fff;
+    margin: 50px auto;
+    font-size: 22px;
+    text-align: center;
+    border: 2px solid rgb(225, 65, 198);
+    border-radius: 10px;
+}
